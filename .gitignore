@@ -1,0 +1,19 @@
+# Ignore large raw and preprocessed audio data
+Audio Samples/
+# Audio Samples Preprocessed/
+Participant Audio Data/
+# Participant Audio Data Preprocessed/
+1. Trash Can/
+Data Analysis/output/
+Data Analysis/temp_graphs/
+# Participant Audio Data/1/Phase 1/VP1 Phase 1 Old Filenames/
+# Participant Audio Data/1/Phase 2/
+# Participant Audio Data/9/
+.venv/
+__pycache__/
+
+*.wav
+*.zip
+*.mp3
+*.flac
+*.aac
